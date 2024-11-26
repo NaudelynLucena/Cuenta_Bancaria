@@ -1,4 +1,4 @@
-"# Cuenta_Bancaria"
+# Cuenta_Bancaria
 
 Desarrollar un programa que modele una cuenta bancaria que tiene los siguientes atributos, que deben ser de acceso protegido:
 Saldo, de tipo float.
